@@ -9,7 +9,7 @@
     "dev": "nodemon src/app.js"
   },
   "engines": {
-    "node": "18.x"
+    "node": "10.x"
   },
   "author": "",
   "license": "ISC",
